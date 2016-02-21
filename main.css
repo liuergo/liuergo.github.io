@@ -1,0 +1,19 @@
+h2{
+    color: aqua;
+}
+
+h2.first{
+    color: blueviolet;
+}
+
+.two{
+    color: crimson;
+}
+
+#header{
+    background: yellow;
+}
+
+#footer{
+    background: green;
+}
