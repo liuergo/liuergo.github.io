@@ -1,19 +1,17 @@
-h2{
-    color: aqua;
+body {
+    background: yellowgreen;
+    margin: 0;
 }
 
-h2.first{
-    color: blueviolet;
+.header{
+    background: grey;
+    height: 70px;
 }
 
-.two{
-    color: crimson;
-}
-
-#header{
+.wrapper{
+    height: 500px;
+    width: 500px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0,4);
     background: yellow;
-}
-
-#footer{
-    background: green;
+    margin: 10px auto;
 }
